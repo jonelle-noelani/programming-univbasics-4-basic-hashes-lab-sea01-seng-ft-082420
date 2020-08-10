@@ -4,11 +4,12 @@ def new_hash
 end
 
 def my_hash
+  hash = {food: "ramen"}
   # return a valid hash with any key/value pair of your choice
-  my_hash = { }
-  my_hash[:food] = "ramen"
-end
- my_hash
+#   my_hash = { }
+#   my_hash[:food] = "ramen"
+# end
+# my_hash
 end
 # def pioneer
 #   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
