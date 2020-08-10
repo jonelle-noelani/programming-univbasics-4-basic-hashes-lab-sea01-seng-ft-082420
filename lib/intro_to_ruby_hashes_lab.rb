@@ -10,7 +10,7 @@ end
 
 # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
 def pioneer
-    pioneer = {:name => “Grace Hopper”}
+    hash = {:name => “Grace Hopper”}
 end
 
  # return a hash with a key :id assigned to the provided number
